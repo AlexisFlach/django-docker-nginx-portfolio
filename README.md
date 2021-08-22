@@ -1,5 +1,3 @@
-#### 01_setup
-
 ## 01_setup
 
 ##### 1. Virtual Environment Setup
