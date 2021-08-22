@@ -2,11 +2,11 @@
 
 ------
 
-<img src="./assets/img/1.png" alt="al" style="zoom:50%;" />
+<img src="./assets/img/1.png" alt="al" style="zoom:25%;" />
 
 
 
-<img src="./assets/img/2.png" alt="al" style="zoom:50%;" />
+<img src="./assets/img/2.png" alt="al" style="zoom:25%;" />
 
 
 
